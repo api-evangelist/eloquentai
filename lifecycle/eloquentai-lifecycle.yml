@@ -1,0 +1,20 @@
+generated: '2026-07-19'
+method: searched
+source: https://status.eloquentai.co
+status_page: https://status.eloquentai.co
+status_page_provider: Atlassian Statuspage
+components:
+- name: Eloquent AI US
+  uptime_90d: '100.0%'
+- name: Eloquent AI UK
+  uptime_90d: '100.0%'
+subscribe:
+- email
+- slack
+- microsoft-teams
+- rss
+notes: >-
+  Versioning, deprecation policy, and SLA could not be captured: the developer
+  documentation portal at https://docs.eloquentai.co is password-protected and no
+  public API specification is available. Only the public Atlassian Statuspage is
+  observable. Re-run enrichment once the docs portal or an OpenAPI is published.

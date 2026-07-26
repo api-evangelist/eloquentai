@@ -1,8 +1,19 @@
 aid: eloquentai
-name: Eloquentai
-description: 'Eloquentai is a company surfaced as a portfolio company of homebrew and added to the API
-  Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+name: Eloquent AI
+description: 'Eloquent AI builds autonomous AI operators for financial services and
+  other regulated industries, automating complex customer operations end-to-end without
+  requiring engineering or custom APIs. Its agents observe standard operating procedures
+  and team actions, then securely drive CRMs, browsers, and desktop applications to
+  resolve inquiries, process refunds, and manage returns. Marquee products include
+  Fixer (a 24/7 autonomous customer-service agent), Closer (an AI sales representative),
+  Navigator (an onboarding and support co-pilot), and Custom Agent (tailored enterprise
+  agents). The platform layers a self-healing engine and an evals framework for quality
+  assurance and regulatory compliance, and deploys across email, chat, SMS, WhatsApp,
+  and voice with integrations into Salesforce, Zendesk, HubSpot, and Stripe. Founded
+  in 2025 and based in San Francisco, it serves banking, insurance, fintech, cash
+  advance, debt recovery, and SaaS. This profile was surfaced as a portfolio-company
+  lead and enriched by the API Evangelist pipeline; the developer documentation portal
+  is currently password-protected, so no public API specification is available yet.'
 url: https://raw.githubusercontent.com/api-evangelist/eloquentai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +21,32 @@ x-backed-by:
 - homebrew
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://eloquentai.co/og-image.png
 tags:
 - Company
-- Ai
+- AI
+- Artificial Intelligence
+- AI Agents
+- Agentic AI
+- Customer Service
+- Customer Support Automation
+- Financial Services
+- Fintech
+- Regulated Industries
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +56,28 @@ maintainers:
 common:
 - type: Website
   url: https://www.eloquentai.co
+- type: DomainSecurity
+  url: security/eloquentai-domain-security.yml
+- type: Lifecycle
+  url: lifecycle/eloquentai-lifecycle.yml
+- type: StatusPage
+  url: https://status.eloquentai.co
+- type: DeveloperPortal
+  url: https://docs.eloquentai.co
+- type: Documentation
+  url: https://docs.eloquentai.co
+- type: Blog
+  url: https://www.eloquentai.co/blog
+- type: GitHubOrganization
+  url: https://github.com/Eloquent-AI
+- type: Login
+  url: https://platform.eloquentai.co/sign-in
+- type: TermsOfService
+  url: https://www.eloquentai.co/information/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.eloquentai.co/legal/privacy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
