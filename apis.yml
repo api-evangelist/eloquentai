@@ -15,6 +15,9 @@ description: 'Eloquent AI builds autonomous AI operators for financial services 
   lead and enriched by the API Evangelist pipeline; the developer documentation portal
   is currently password-protected, so no public API specification is available yet.'
 url: https://raw.githubusercontent.com/api-evangelist/eloquentai/refs/heads/main/apis.yml
+x-api-posture: docs-gated
+x-api-posture-basis: observed
+x-api-posture-note: "This profile was surfaced as a portfolio-company lead and enriched by the API Evangelist pipeline; the developer documentation portal is currently password-protected, so no public API specification is"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
