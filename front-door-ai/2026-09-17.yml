@@ -1,0 +1,31 @@
+# Front Door AI Index — eloquentai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: eloquentai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.eloquentai.co
+  final_host: www.eloquentai.co
+  ownership: own
+  owner: eloquentai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 86
+  host_score: 86
+  density: 54.74
+  words: 1571
+  tiers:
+    agentic: 16
+    core: 70
+    model: 0
+  ambiguous: 19
+  top_terms:
+    AI: 70
+    agent: 16
+    AI agent: 11
+    automation: 3
+    chatbot: 2
+    prompts: 2
+    autonomous agent: 1
