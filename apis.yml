@@ -50,14 +50,16 @@ specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 image: https://eloquentai.co/og-image.png
+x-docs-platform: readme
+x-docs-platform-confidence: high
+x-docs-platform-checked: 2026-10-03
 tags:
 - Company
 - Artificial Intelligence
 - AI Agents
-- Agentic AI
 - Customer Service
 - Customer Support Automation
-- Financial-Services
+- Financial Services
 - Fintech
 - Regulated Industries
 tags_raw:
@@ -71,6 +73,7 @@ tags_raw:
 - Financial Services
 - Fintech
 - Regulated Industries
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
